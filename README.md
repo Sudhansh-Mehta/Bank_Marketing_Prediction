@@ -1,6 +1,6 @@
 # Bank_Marketing_Prediction
 
-The goal of this study is to predict the success of telemarketing calls for selling long-term deposits. A Portuguese bank wants to utilise its client details to understand what type of customers are more willing to subscribe to their long-term deposit product. To achieve the aforesaid goal, various machine learning models like logistic regression and trees were developed to predict the whether the customer would subscribe to the product. The models also gave insights into the impact of various features on the outcome.
+The goal of this study is to predict the success of telemarketing calls for selling long-term deposits. A Portuguese bank wants to utilise its client details to understand what type of customers are more willing to subscribe to their long-term deposit product. To achieve the aforesaid goal, various machine learning models like logistic regression and trees were developed to predict whether the customer would subscribe to the product. The models also gave insights into the impact of various features on the outcome.
 
 Following Papers were referenced:
 
